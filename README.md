@@ -45,8 +45,3 @@ Associate Technical Lead at [WSO2](https://wso2.com), focused on applying AI to 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsuruMaduranga&theme=solarized-dark&hide_border=true)](https://git.io/streak-stats)
 
----
-
-#### Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=IsuruMaduranga&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
